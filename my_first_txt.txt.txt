@@ -1,5 +1,0 @@
-My first text file
-
-Changed in the server
-
-One more message in the local
